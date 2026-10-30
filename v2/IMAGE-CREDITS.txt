@@ -1,0 +1,33 @@
+Product photos are free images used to show the food, not the brand packed on the shelf.
+Most come from Wikimedia Commons. Replace any photo with the shop's own pack shot when you have one.
+
+basmati: Basmati Rice India, raw.jpg
+sona: Masoori Rice (5193854729).jpg
+atta: All-Purpose Flour (4107895947).jpg
+toor: Pigeon Pea (Toor Dal) (49683602388).jpg
+moong: Moong Dal.jpg
+chana: Chana Ko Dal.jpg
+mustard: Mustard Oil MoteNyinSei.jpg
+sunflower: Bottle 1 liter Sunflower refined oil.jpg
+sugar: Granulated White Sugar with Large Crystals, Bright Front Light.jpg
+salt: Salt-crystals.jpg
+haldi: Kunyit Bubuk.jpg
+mirch: Capsicum annuum-Red Chilli Pepper 01.jpg
+dhania: Coriander Powder.jpg
+garam: Garam Masala.JPG
+jeera: Dried cumin seeds.jpg
+badam: Almond nuts in water.jpg
+kaju: CASHEW NUTS.jpg
+kishmish: Raisins 01.jpg
+akhrot: Walnuts - whole and open with halved kernel.jpg
+pista: Pistacia vera Kerman.jpg
+namkeen: Indian Snack in a bowl (Namkeen).jpg
+mixture: Chanachur.jpg
+glucose: Nabisco glucose biscuits.jpg
+marie: Galleta María.jpg
+tea: Darjeeling, India, Darjeeling tea, Black tea.jpg
+ghee: Ghee 2.jpg
+milk: PowderedMilk.jpg
+detergent: Laundry detergent 1.jpg
+soap: Handmade soap.jpg
+dishwash: Handmade soap.jpg
